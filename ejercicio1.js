@@ -24,7 +24,6 @@ hastaCero(100) // Devuelve:
 
 const hastaCero = (numero) => {
     console.log(`Del ${numero} al 0`);
-
     do{
         console.log(`-n° ${numero}`);
         numero -= 8;
