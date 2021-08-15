@@ -1,2 +1,2 @@
 # Ejercios-de-Java-Script
-Repositorio con ejercicios para practicar conceptos de JS
+En este repositorio encontras diferentes que he ido recolectando de la web y cursos que te serviran para practicar conceptos de Java Script.
