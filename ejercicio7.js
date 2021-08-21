@@ -10,6 +10,7 @@ Dibujar un cuadrado hueco con asteriscos
 const dibujarCuadrado = () => {
     const lineaUno = '**** \n';
     const lineaDos = '*  *\n';
+    
     let resultado = '';
 
     for (let i = 1; i < 5; i++) {
