@@ -50,10 +50,16 @@ function cuadrado(numero){
     for (let i = 2; i < numero; i++) {
         contenido = "*";
 
-        dibujo += contenido + "\n";
-        
-    }
+        for (let j = 2; j < numero; j++) {
+            contenido += " ";
+            
+        }
 
+        contenido += "*"
+
+        dibujo += contenido + "\n";   
+    }
+    
     dibujo += lado(numero);
 
     return dibujo;
